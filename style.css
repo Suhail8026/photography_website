@@ -157,14 +157,14 @@
 
     }
     .photosecond{ 
-        width: 300px;
-        height: 200px;
+        width: 350px;
+        height: 250px;
         margin: 20px;
 
     }
     .photosecond>img{
-        width: 300px;
-        height: 200px;
+        width: 350px;
+        height: 250px;
     }
     #thiredsection{
         height: auto;
