@@ -146,24 +146,24 @@
     }
     .photoone{
         height: 500px;
-        width: 300px;
+        width: 350px;
         margin: 20px;*/
         
     }
     .photoone>img
     {
         height: 500px;
-        width: 300px;
+        width: 350px;
 
     }
     .photosecond{ 
-        width: 350px;
+        width: 400px;
         height: 250px;
         margin: 20px;
 
     }
     .photosecond>img{
-        width: 350px;
+        width: 400px;
         height: 250px;
     }
     #thiredsection{
