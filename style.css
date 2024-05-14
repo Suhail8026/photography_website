@@ -81,7 +81,7 @@
         height: 100px;
         vertical-align: top;
         padding-right: 20px;
-    margin-left: 100px;
+        margin-left: 100px;
     
     }
     .collapse navbar-collapse{
@@ -146,7 +146,7 @@
     }
     .photoone{
         height: 500px;
-        width: 350px;
+        width:  350px;
         margin: 20px;*/
         
     }
@@ -157,13 +157,13 @@
 
     }
     .photosecond{ 
-        width: 400px;
+        width: 350px;
         height: 250px;
         margin: 20px;
 
     }
     .photosecond>img{
-        width: 400px;
+        width: 350px;
         height: 250px;
     }
     #thiredsection{
