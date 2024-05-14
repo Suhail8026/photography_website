@@ -135,11 +135,11 @@
         /*padding-left: 100px;*/ 
     }
     #secondsectionfirst{
-        margin-left: 50px;
-        margin-right: 50px;
+        margin-left: 20px;
+        margin-right: 20px;
     }
     .al{
-        width: 460px;
+        width: 300px;
         height:auto;
         display: inline-block;
         margin: 20px;*/
@@ -148,18 +148,18 @@
     }
     .photoone{
         height: 500px;
-        width: 460px;
+        width: 300px;
         margin: 20px;*/
         
     }
     .photoone>img
     {
         height: 500px;
-        width: 460px;
+        width: 300px;
 
     }
     .photosecond{
-        width: 460px;
+        width: 300px;
         height: 200px;
         margin: 20px;
 
