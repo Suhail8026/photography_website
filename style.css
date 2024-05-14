@@ -133,8 +133,9 @@
         /*padding-left: 100px;*/ 
     }
     #secondsectionfirst{
-        margin-left: 20px;
-        margin-right: 20px;
+/*         margin-left: 20px;
+        margin-right: 20px; */
+            margin:auto;
     }
     .al{
         width: 300px;
