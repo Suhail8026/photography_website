@@ -158,13 +158,13 @@
     }
     .photosecond{ 
         width: 200px;
-        height: 300px;
+        height: 200px;
         margin: 20px;
 
     }
     .photosecond>img{
         width: 200px;
-        height: 300px;
+        height: 200px;
     }
     #thiredsection{
         height: auto;
