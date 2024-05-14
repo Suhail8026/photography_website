@@ -16,9 +16,7 @@
         width: 100hv;
         display: flex;
         flex-direction: column;
-        justify-content: space-between;
-        
-        
+        justify-content: space-between;  
     }
     .nav-link{
         font-size: 20px; 
@@ -160,13 +158,13 @@
     }
     .photosecond{ 
         width: 200px;
-        height: 200px;
+        height: 300px;
         margin: 20px;
 
     }
     .photosecond>img{
         width: 200px;
-        height: 100px;
+        height: 300px;
     }
     #thiredsection{
         height: auto;
