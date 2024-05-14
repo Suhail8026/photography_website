@@ -40,7 +40,7 @@
         font-size: 20px;
         color: white;
         margin-left: 100px;
-        margin-top: 500px;
+        margin-top: 300px;
         text-decoration:unset;
         list-style: none;
     }
@@ -135,8 +135,8 @@
         /*padding-left: 100px;*/ 
     }
     #secondsectionfirst{
-        margin-left: 100px;
-        margin-right: 100px;
+        margin-left: 50px;
+        margin-right: 50px;
     }
     .al{
         width: 460px;
@@ -305,17 +305,17 @@
     }
     #spone{
         height: 500px;
-        width: 430px;
+        width: 350px;
         border-radius: 7px;
     }
     #sptwo{
         height: 500px;
-        width: 730px;
+        width: 650px;
         border-radius: 7px;
     }
     #spthree{
         height: 500px;
-        width: 430px;
+        width: 35 0px;
         border-radius: 7px;
     }
     .bttn{
